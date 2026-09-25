@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/vaibhavtyagicse/LeetCode-Problems/tree/master/0001-two-sum) |
+| [0035-search-insert-position](https://github.com/vaibhavtyagicse/LeetCode-Problems/tree/master/0035-search-insert-position) |
 | [0041-first-missing-positive](https://github.com/vaibhavtyagicse/LeetCode-Problems/tree/master/0041-first-missing-positive) |
 | [0042-trapping-rain-water](https://github.com/vaibhavtyagicse/LeetCode-Problems/tree/master/0042-trapping-rain-water) |
 | [0056-merge-intervals](https://github.com/vaibhavtyagicse/LeetCode-Problems/tree/master/0056-merge-intervals) |
@@ -109,5 +110,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/vaibhavtyagicse/LeetCode-Problems/tree/master/0035-search-insert-position) |
 | [0704-binary-search](https://github.com/vaibhavtyagicse/LeetCode-Problems/tree/master/0704-binary-search) |
 <!---LeetCode Topics End-->
