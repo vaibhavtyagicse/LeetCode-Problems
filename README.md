@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/vaibhavtyagicse/LeetCode-Problems/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0215-kth-largest-element-in-an-array](https://github.com/vaibhavtyagicse/LeetCode-Problems/tree/master/0215-kth-largest-element-in-an-array) |
 | [0238-product-of-array-except-self](https://github.com/vaibhavtyagicse/LeetCode-Problems/tree/master/0238-product-of-array-except-self) |
+| [0493-reverse-pairs](https://github.com/vaibhavtyagicse/LeetCode-Problems/tree/master/0493-reverse-pairs) |
 | [0704-binary-search](https://github.com/vaibhavtyagicse/LeetCode-Problems/tree/master/0704-binary-search) |
 | [0912-sort-an-array](https://github.com/vaibhavtyagicse/LeetCode-Problems/tree/master/0912-sort-an-array) |
 | [1480-running-sum-of-1d-array](https://github.com/vaibhavtyagicse/LeetCode-Problems/tree/master/1480-running-sum-of-1d-array) |
@@ -127,12 +128,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/vaibhavtyagicse/LeetCode-Problems/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/vaibhavtyagicse/LeetCode-Problems/tree/master/0035-search-insert-position) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/vaibhavtyagicse/LeetCode-Problems/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
+| [0493-reverse-pairs](https://github.com/vaibhavtyagicse/LeetCode-Problems/tree/master/0493-reverse-pairs) |
 | [0704-binary-search](https://github.com/vaibhavtyagicse/LeetCode-Problems/tree/master/0704-binary-search) |
 ## Divide and Conquer
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/vaibhavtyagicse/LeetCode-Problems/tree/master/0004-median-of-two-sorted-arrays) |
 | [0215-kth-largest-element-in-an-array](https://github.com/vaibhavtyagicse/LeetCode-Problems/tree/master/0215-kth-largest-element-in-an-array) |
+| [0493-reverse-pairs](https://github.com/vaibhavtyagicse/LeetCode-Problems/tree/master/0493-reverse-pairs) |
 | [0912-sort-an-array](https://github.com/vaibhavtyagicse/LeetCode-Problems/tree/master/0912-sort-an-array) |
 ## Heap (Priority Queue)
 |  |
@@ -142,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Merge Sort
 |  |
 | ------- |
+| [0493-reverse-pairs](https://github.com/vaibhavtyagicse/LeetCode-Problems/tree/master/0493-reverse-pairs) |
 | [0912-sort-an-array](https://github.com/vaibhavtyagicse/LeetCode-Problems/tree/master/0912-sort-an-array) |
 ## Bucket Sort
 |  |
@@ -163,4 +167,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/vaibhavtyagicse/LeetCode-Problems/tree/master/0075-sort-colors) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/vaibhavtyagicse/LeetCode-Problems/tree/master/0493-reverse-pairs) |
+## Segment Tree
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/vaibhavtyagicse/LeetCode-Problems/tree/master/0493-reverse-pairs) |
+## Ordered Set
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/vaibhavtyagicse/LeetCode-Problems/tree/master/0493-reverse-pairs) |
+## Treap
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/vaibhavtyagicse/LeetCode-Problems/tree/master/0493-reverse-pairs) |
 <!---LeetCode Topics End-->
