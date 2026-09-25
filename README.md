@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/vaibhavtyagicse/LeetCode-Problems/tree/master/0001-two-sum) |
+| [0041-first-missing-positive](https://github.com/vaibhavtyagicse/LeetCode-Problems/tree/master/0041-first-missing-positive) |
 | [0056-merge-intervals](https://github.com/vaibhavtyagicse/LeetCode-Problems/tree/master/0056-merge-intervals) |
 | [0066-plus-one](https://github.com/vaibhavtyagicse/LeetCode-Problems/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/vaibhavtyagicse/LeetCode-Problems/tree/master/0088-merge-sorted-array) |
@@ -34,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/vaibhavtyagicse/LeetCode-Problems/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/vaibhavtyagicse/LeetCode-Problems/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0041-first-missing-positive](https://github.com/vaibhavtyagicse/LeetCode-Problems/tree/master/0041-first-missing-positive) |
 | [0141-linked-list-cycle](https://github.com/vaibhavtyagicse/LeetCode-Problems/tree/master/0141-linked-list-cycle) |
 | [0432-all-oone-data-structure](https://github.com/vaibhavtyagicse/LeetCode-Problems/tree/master/0432-all-oone-data-structure) |
 | [0460-lfu-cache](https://github.com/vaibhavtyagicse/LeetCode-Problems/tree/master/0460-lfu-cache) |
