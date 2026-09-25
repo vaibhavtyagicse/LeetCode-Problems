@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/vaibhavtyagicse/LeetCode-Problems/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/vaibhavtyagicse/LeetCode-Problems/tree/master/0088-merge-sorted-array) |
 | [0238-product-of-array-except-self](https://github.com/vaibhavtyagicse/LeetCode-Problems/tree/master/0238-product-of-array-except-self) |
+| [0704-binary-search](https://github.com/vaibhavtyagicse/LeetCode-Problems/tree/master/0704-binary-search) |
 | [1480-running-sum-of-1d-array](https://github.com/vaibhavtyagicse/LeetCode-Problems/tree/master/1480-running-sum-of-1d-array) |
 | [1929-concatenation-of-array](https://github.com/vaibhavtyagicse/LeetCode-Problems/tree/master/1929-concatenation-of-array) |
 ## Math
@@ -105,4 +106,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/vaibhavtyagicse/LeetCode-Problems/tree/master/0042-trapping-rain-water) |
+## Binary Search
+|  |
+| ------- |
+| [0704-binary-search](https://github.com/vaibhavtyagicse/LeetCode-Problems/tree/master/0704-binary-search) |
 <!---LeetCode Topics End-->
