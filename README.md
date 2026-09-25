@@ -31,12 +31,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/vaibhavtyagicse/LeetCode-Problems/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0141-linked-list-cycle](https://github.com/vaibhavtyagicse/LeetCode-Problems/tree/master/0141-linked-list-cycle) |
 | [0432-all-oone-data-structure](https://github.com/vaibhavtyagicse/LeetCode-Problems/tree/master/0432-all-oone-data-structure) |
+| [0460-lfu-cache](https://github.com/vaibhavtyagicse/LeetCode-Problems/tree/master/0460-lfu-cache) |
 ## Linked List
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/vaibhavtyagicse/LeetCode-Problems/tree/master/0002-add-two-numbers) |
 | [0141-linked-list-cycle](https://github.com/vaibhavtyagicse/LeetCode-Problems/tree/master/0141-linked-list-cycle) |
 | [0432-all-oone-data-structure](https://github.com/vaibhavtyagicse/LeetCode-Problems/tree/master/0432-all-oone-data-structure) |
+| [0460-lfu-cache](https://github.com/vaibhavtyagicse/LeetCode-Problems/tree/master/0460-lfu-cache) |
 ## Recursion
 |  |
 | ------- |
@@ -66,8 +68,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0432-all-oone-data-structure](https://github.com/vaibhavtyagicse/LeetCode-Problems/tree/master/0432-all-oone-data-structure) |
+| [0460-lfu-cache](https://github.com/vaibhavtyagicse/LeetCode-Problems/tree/master/0460-lfu-cache) |
 ## Doubly-Linked List
 |  |
 | ------- |
 | [0432-all-oone-data-structure](https://github.com/vaibhavtyagicse/LeetCode-Problems/tree/master/0432-all-oone-data-structure) |
+| [0460-lfu-cache](https://github.com/vaibhavtyagicse/LeetCode-Problems/tree/master/0460-lfu-cache) |
 <!---LeetCode Topics End-->
