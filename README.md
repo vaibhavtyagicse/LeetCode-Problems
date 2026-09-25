@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/vaibhavtyagicse/LeetCode-Problems/tree/master/0042-trapping-rain-water) |
 | [0056-merge-intervals](https://github.com/vaibhavtyagicse/LeetCode-Problems/tree/master/0056-merge-intervals) |
 | [0066-plus-one](https://github.com/vaibhavtyagicse/LeetCode-Problems/tree/master/0066-plus-one) |
+| [0075-sort-colors](https://github.com/vaibhavtyagicse/LeetCode-Problems/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/vaibhavtyagicse/LeetCode-Problems/tree/master/0088-merge-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/vaibhavtyagicse/LeetCode-Problems/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0215-kth-largest-element-in-an-array](https://github.com/vaibhavtyagicse/LeetCode-Problems/tree/master/0215-kth-largest-element-in-an-array) |
@@ -33,12 +34,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/vaibhavtyagicse/LeetCode-Problems/tree/master/0005-longest-palindromic-substring) |
 | [0042-trapping-rain-water](https://github.com/vaibhavtyagicse/LeetCode-Problems/tree/master/0042-trapping-rain-water) |
+| [0075-sort-colors](https://github.com/vaibhavtyagicse/LeetCode-Problems/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/vaibhavtyagicse/LeetCode-Problems/tree/master/0088-merge-sorted-array) |
 | [0141-linked-list-cycle](https://github.com/vaibhavtyagicse/LeetCode-Problems/tree/master/0141-linked-list-cycle) |
 ## Sorting
 |  |
 | ------- |
 | [0056-merge-intervals](https://github.com/vaibhavtyagicse/LeetCode-Problems/tree/master/0056-merge-intervals) |
+| [0075-sort-colors](https://github.com/vaibhavtyagicse/LeetCode-Problems/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/vaibhavtyagicse/LeetCode-Problems/tree/master/0088-merge-sorted-array) |
 | [0215-kth-largest-element-in-an-array](https://github.com/vaibhavtyagicse/LeetCode-Problems/tree/master/0215-kth-largest-element-in-an-array) |
 | [0912-sort-an-array](https://github.com/vaibhavtyagicse/LeetCode-Problems/tree/master/0912-sort-an-array) |
@@ -107,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0056-merge-intervals](https://github.com/vaibhavtyagicse/LeetCode-Problems/tree/master/0056-merge-intervals) |
+| [0075-sort-colors](https://github.com/vaibhavtyagicse/LeetCode-Problems/tree/master/0075-sort-colors) |
 ## Stack
 |  |
 | ------- |
@@ -155,4 +159,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/vaibhavtyagicse/LeetCode-Problems/tree/master/0215-kth-largest-element-in-an-array) |
+## Bubble Sort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/vaibhavtyagicse/LeetCode-Problems/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
