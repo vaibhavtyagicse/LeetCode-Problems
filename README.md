@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/vaibhavtyagicse/LeetCode-Problems/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0238-product-of-array-except-self](https://github.com/vaibhavtyagicse/LeetCode-Problems/tree/master/0238-product-of-array-except-self) |
 | [0704-binary-search](https://github.com/vaibhavtyagicse/LeetCode-Problems/tree/master/0704-binary-search) |
+| [0912-sort-an-array](https://github.com/vaibhavtyagicse/LeetCode-Problems/tree/master/0912-sort-an-array) |
 | [1480-running-sum-of-1d-array](https://github.com/vaibhavtyagicse/LeetCode-Problems/tree/master/1480-running-sum-of-1d-array) |
 | [1929-concatenation-of-array](https://github.com/vaibhavtyagicse/LeetCode-Problems/tree/master/1929-concatenation-of-array) |
 ## Math
@@ -38,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0056-merge-intervals](https://github.com/vaibhavtyagicse/LeetCode-Problems/tree/master/0056-merge-intervals) |
 | [0088-merge-sorted-array](https://github.com/vaibhavtyagicse/LeetCode-Problems/tree/master/0088-merge-sorted-array) |
+| [0912-sort-an-array](https://github.com/vaibhavtyagicse/LeetCode-Problems/tree/master/0912-sort-an-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -124,4 +126,25 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/vaibhavtyagicse/LeetCode-Problems/tree/master/0004-median-of-two-sorted-arrays) |
+| [0912-sort-an-array](https://github.com/vaibhavtyagicse/LeetCode-Problems/tree/master/0912-sort-an-array) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/vaibhavtyagicse/LeetCode-Problems/tree/master/0912-sort-an-array) |
+## Merge Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/vaibhavtyagicse/LeetCode-Problems/tree/master/0912-sort-an-array) |
+## Bucket Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/vaibhavtyagicse/LeetCode-Problems/tree/master/0912-sort-an-array) |
+## Radix Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/vaibhavtyagicse/LeetCode-Problems/tree/master/0912-sort-an-array) |
+## Counting Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/vaibhavtyagicse/LeetCode-Problems/tree/master/0912-sort-an-array) |
 <!---LeetCode Topics End-->
